@@ -94,7 +94,7 @@ Issue:sales,support
 selection_mode=all_available
 Output: [agent1,agent2] Ran 1 test
 
-Test case 1:
+Test case 2:
 Number of agents : 4
 Name:agent1  is_avail=yes avail_since=67 roles=[sales, support]
 Name:agent2  is_avail=yes avail_since=45 roles=[sales, support, spanish]
@@ -104,7 +104,7 @@ Issue:sales
 selection_mode=least_busy
 Output: [agent1] Ran 1 test
 
-Test case 1:
+Test case 3:
 Number of agents : 4
 Name:agent1  is_avail=yes avail_since=67 roles=[sales, support]
 Name:agent2  is_avail=yes avail_since=45 roles=[sales, support, spanish]
